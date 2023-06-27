@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Duncan</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="welcome">Welcome to Duncan.\nSign In to start using the app</string>
+    <string name="email_address">Enter your email address</string>
+    <string name="password">Enter your password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Register</string>
+</resources>
